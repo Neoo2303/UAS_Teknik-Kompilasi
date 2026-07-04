@@ -1,8 +1,10 @@
 # UAS_Teknik-Kompilasi
+
 Nama : Borneo Paradis Anwar
 Nim  : 231011400143
 Kelas: 06TPLE003
-Tugas Proyek Akhir
+
+Proyek Akhir
 Representasi Tahapan Kompilasi
 Konstruksi: Perulangan While
 1. Pattern (BNF)
